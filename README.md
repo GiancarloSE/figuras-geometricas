@@ -1,5 +1,5 @@
 # Figuras Geometricas
 ## Desarrollador
-| Apellidos y nombres |
-| --- |
-|  Soto Escobar Giancarlo Marcio    |
+| Apellidos y nombres           |
+|-------------------------------|
+| SOTO ESCOBAR GIANCARLO MARCIO |
