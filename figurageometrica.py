@@ -99,7 +99,7 @@ if __name__ == "__main__":
     print(triangulo)
     print(circulo)
 
-    # Mostrar dimensiones de las figuras
+    # Mostrar dimensiones de las figurass
     print(rectangulo.get_dimensiones())
     print(triangulo.get_dimensiones())
     print(circulo.get_dimensiones())
